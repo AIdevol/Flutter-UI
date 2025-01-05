@@ -162,8 +162,6 @@ _buttoneViewNavigator(BuildContext context) {
     children: [
       InkWell(
         onTap: () {
-          RegisterView();
-          print('HSFD');
         },
         child: Container(
           alignment: Alignment.center,
